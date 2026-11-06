@@ -1,0 +1,10 @@
+[
+  {"id": 1, "nama": "Vikky Syawal", "skor": 2450, "menang": 18, "kalah": 4},
+  {"id": 2, "nama": "Harun Ramdhani", "skor": 2890, "menang": 22, "kalah": 2},
+  {"id": 3, "nama": "Rivaldy Alfian", "skor": 1980, "menang": 14, "kalah": 8},
+  {"id": 4, "nama": "Dafi Firmansyah", "skor": 2710, "menang": 20, "kalah": 3},
+  {"id": 5, "nama": "Syabil Zulfikar", "skor": 1500, "menang": 10, "kalah": 12},
+  {"id": 6, "nama": "Fachrianno Septian", "skor": 2100, "menang": 15, "kalah": 7},
+  {"id": 7, "nama": "Dafa Alma", "skor": 1250, "menang": 8, "kalah": 14},
+  {"id": 8, "nama": "Fadlan Hadrian", "skor": 2300, "menang": 17, "kalah": 5}
+]
